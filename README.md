@@ -11,6 +11,9 @@ This covers the steps to:
 - Install and configure Argo CD.
 - Connect and manage your Kubernetes cluster with Argo CD.
 
+## Demo
+![Demo](prometheus-grafana-monitoring-voting-app2.gif)
+
 
 ## Architecture
 
